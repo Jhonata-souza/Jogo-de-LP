@@ -7,6 +7,7 @@ após o jogador passar por eles, irá enfrentar chefe dos ratos para conquistar 
 
 No caminho do jogo terá diversos "biscoitos" que aumentaram a pontuação do jogador, e no inicio vai ter uma máquina de fliperama que da acesso a um minigame.
 
+
 ### Gênero
  Luta, ação
 
