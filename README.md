@@ -7,15 +7,19 @@ após o jogador passar por eles, irá enfrentar chefe dos ratos para conquistar 
 
 No caminho do jogo terá diversos "biscoitos" que aumentaram a pontuação do jogador, e no inicio vai ter uma máquina de fliperama que da acesso a um minigame.
 
-## Gênero
+### Gênero
  Luta, ação
 
-## Classificação indicativa
+### Classificação indicativa
 Idade Miníma: 10 Anos
 
-### Dupla 
+#### Dupla 
 - Gustavo Severo e Jhonata Souza 
 
 
 *A proposta do jogo é testar a paleta
 de cores, um mini-jogo e iluminação*
+
+<br1>
+
+![Fundo](https://github.com/Jhonata-souza/PunchersCat/assets/101649107/d3c81ecf-8d83-4141-accb-5564eb94e71f)
