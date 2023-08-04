@@ -6,4 +6,10 @@ que após o jogador passar por eles, vai lutar contra o chef dos ratos para cons
 
 No caminho do jogo terá diversos "biscoitos" que aumentaram a pontuação do jogador, e no inicio vai ter uma máquina de fliperama que da acesso a um minigame.
 
+Gênero: Luta, ação
+Classificação indicativa: 10 anos
+
+A proposta do jogo é testar a paleta
+de cores, um mini-jogo e iluminação
+
 Dupla: Gustavo Severo e Jhonata Souza 
