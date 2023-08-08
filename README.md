@@ -19,7 +19,7 @@ após o jogador passar por eles, irá enfrentar chefe dos ratos para conquistar 
 No caminho do jogo terá diversos "biscoitos" que aumentaram a pontuação do jogador, e no inicio vai ter uma máquina de fliperama que da acesso a um minigame.
 
 ## 2 - Mobile
-Desenvlveremos uma wiki dos personagens aonde conta suas característiscas físicas como: peso, altura, peso etc..
+Desenvolveremos uma wiki dos personagens aonde conta suas característiscas físicas como: peso, altura, peso etc..
 
 
 
