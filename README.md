@@ -6,6 +6,11 @@ O jogo inicia apresentando o personagem principal que é um gato, ele rapidament
 descobre que quem roubou foi o chefe da mafia dos ratos, então ele passará por diversos ratos inimigos tendo que enfrenta-los até chegar a toca que será a próxima fase tendo inimigos mais fortes
 após o jogador passar por eles, irá enfrentar chefe dos ratos para conquistar sua preciosa comida e seu glorioso descanso após o seu retorno.
 
+## 1.2 - Mecânicas
+- O combate do jogo tem combos, esquivas e contra ataques alem de um poder especial
+- O jogador poderá adiquirir pontos por meio de combos
+-  Terá uma variação de inimigos com diferentes habilidades
+
 
 
 ![rato](https://github.com/Jhonata-souza/PunchersCat/assets/126109657/15614ef5-cfcc-4263-9c3b-43b194a8f6f4)
