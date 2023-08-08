@@ -5,7 +5,11 @@ O jogo inicia apresentando o personagem principal que é um gato, ele rapidament
 descobre que quem roubou foi o chefe da mafia dos ratos, então ele passará por diversos ratos inimigos tendo que enfrenta-los até chegar a toca que será a próxima fase tendo inimigos mais fortes
 após o jogador passar por eles, irá enfrentar chefe dos ratos para conquistar sua preciosa comida e seu glorioso descanso após o seu retorno.
 
+
 No caminho do jogo terá diversos "biscoitos" que aumentaram a pontuação do jogador, e no inicio vai ter uma máquina de fliperama que da acesso a um minigame.
+
+## 1 - Mobile
+Desenvlveremos uma wiki dos personagens aonde conta suas característiscas físicas como: peso, altura, peso etc..
 
 
 ### Gênero
