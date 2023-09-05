@@ -2,36 +2,40 @@
 
 
 ## 1 - Jogo e sua narrativa
-O jogo inicia apresentando o personagem principal que é um gato, ele rapidamente observa que roubaram sua comida, em seguida ele vai atras do culpado pela casa recuperar ela, e 
-descobre que quem roubou foi o chefe da mafia dos ratos, então ele passará por diversos ratos inimigos tendo que enfrenta-los até chegar a toca que será a próxima fase tendo inimigos mais fortes
-após o jogador passar por eles, irá enfrentar chefe dos ratos para conquistar sua preciosa comida e seu glorioso descanso após o seu retorno.
+O jogo inicia apresentando o personagem principal que é um gato aonde ele acorda faminto, ele rapidamente observa que roubaram toda sua comida, em seguida ele segue os rastros aonde leva ele até os verdadeiros culpados que invadiram sua casa e roubaram sua comida, logo após isso descobre que quem roubou foi o chefe da mafia dos ratos aonde assaltava casas e fazia de nova moradia para sua organização, então ele lutará com os lacaios, o braço direito do Chefe e o Chefe final. Ao enfrenta-los e recuperar sua comida ele poderá descansar em paz com sigo mesmo saboreando o seu delicioso lanchinho. 
+
 
 ## 1.2 - Mecânicas
-- O combate do jogo tem combos, esquivas e contra ataques alem de um poder especial
-- O jogador poderá adiquirir pontos por meio de combos
--  Terá uma variação de inimigos com diferentes habilidades
-
+- Com o personagem principal terá sequencias de alguns golpes, esquivas e contra ataques alem de um poder especial. 
+- O jogador poderá adiquirir pontos por meio de combos ande se tomar dano perde ponto ou ao acertar o golpe ganha ponto. No final esses pontos poderá trocar por coins para jogar um mini-game.
+- Terá uma variação de inimigos com diferentes habilidades
+  
+  * Golpes
+  * Movimentação
+  * Sistema de pontuação
+  * Mini - Game
+  * Sistema de Vida com marcador
+  * Sistema de Derrota
+  * Sistema de Vitória
+  * Transição das Cenas
 
 
 ![rato](https://github.com/Jhonata-souza/PunchersCat/assets/126109657/15614ef5-cfcc-4263-9c3b-43b194a8f6f4)
 
 
 
-
-
-
 ## 1.1 - Easter Eggs
-No caminho do jogo terá diversos "biscoitos" que aumentaram a pontuação do jogador, e no inicio vai ter uma máquina de fliperama que da acesso a um minigame.
+No caminho do jogo terá uma chance de aparecer biscoitos que aumentaram a pontuação do jogador para trocar por coins ao final do jogo para desbloquear e jogar o mini-game.
 
 ## 2 - Mobile
-Desenvolveremos uma wiki dos personagens aonde conta suas característiscas físicas como: peso, altura, peso etc..
-
+Desenvolveremos uma wiki dos personagens no jogo com suas carateristicas conjunto a suas sprits. Tendo estátisticas como peso, altura, nivél de força. Colocaremos Sinopse do jogo com a musica tema.
 
 
 ### Gênero
  Luta, ação
 
 ### Classificação indicativa
+Como é um jogo de luta na classificação indicativa indica violence. Então colocamos a fachetária de 10 anos de idade como idade minima para jogar o jogo.
 Idade Miníma: 10 Anos
 
 #### Dupla 
