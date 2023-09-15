@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FF6D00">
+
+    <ImageButton
+        android:id="@+id/imageButton8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="18dp"
+        android:layout_marginTop="18dp"
+        android:layout_marginEnd="337dp"
+        android:layout_marginBottom="662dp"
+        android:backgroundTint="#FF0000"
+        android:contentDescription="@string/Nada3"
+        android:onClick="IrPersonagem"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@android:drawable/ic_menu_revert" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="210dp"
+        android:layout_height="667dp"
+        android:layout_marginStart="200dp"
+        android:layout_marginTop="32dp"
+        android:text="@string/tony_um_gato_de_pelagem_laranja_com_olhos_verdes_faiscantes_ele_conhecido_por_suas_habilidades_excepcionais_nas_artes_marciais_felinas_incluindo_garras_afiadas_e_agilidade_surpreendente_determinado_e_destemido_tony_embarca_em_uma_jornada_para_recuperar_sua_comida_roubada_e_enfrenta_a_gangue_liderada_pelo_chef_rat_o_demonstrando_coragem_e_destreza_em_sua_busca_sua_hist_ria_se_torna_uma_lenda_lembrando_a_todos_que_por_tr_s_da_apar_ncia_fofa_de_um_gato_pode_haver_um_her_i_formid_vel"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="166dp"
+        android:layout_height="216dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="112dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/protagonista"
+        android:contentDescription="@string/prota" />
+
+    <ImageView
+        android:id="@+id/imageView10"
+        android:layout_width="144dp"
+        android:layout_height="192dp"
+        android:layout_marginStart="28dp"
+        android:layout_marginTop="520dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/protagonistasusto"
+        android:contentDescription="@string/susto" />
+
+    <ImageView
+        android:id="@+id/imageView11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginBottom="249dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/protagonistamorto"
+        android:contentDescription="@string/anjinho2" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
