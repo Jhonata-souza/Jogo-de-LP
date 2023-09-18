@@ -30,7 +30,7 @@ No caminho do jogo terá uma chance de aparecer biscoitos que aumentaram a pontu
 
 ## 2 - Mobile
 Desenvolveremos uma wiki dos personagens no jogo com suas carateristicas conjunto a suas sprits. Tendo estátisticas como peso, altura, nivél de força. Colocaremos Sinopse do jogo com a musica tema. 
-## (Detalhes da aplicação e prints do aplicativo na wiki)
+# (Detalhes da aplicação e prints do aplicativo, na wiki)
 
 
 ### Gênero
