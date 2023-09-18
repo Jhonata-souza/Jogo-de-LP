@@ -1,5 +1,6 @@
 # Jogo-PunchersCat
-
+#### Dupla 
+- Gustavo Severo e Jhonata Souza 
 
 ## 1 - Jogo e sua narrativa
 O jogo inicia apresentando o personagem principal que é um gato aonde ele acorda faminto, ele rapidamente observa que roubaram toda sua comida, em seguida ele segue os rastros aonde leva ele até os verdadeiros culpados que invadiram sua casa e roubaram sua comida, logo após isso descobre que quem roubou foi o chefe da mafia dos ratos aonde assaltava casas e fazia de nova moradia para sua organização, então ele lutará com os lacaios, o braço direito do Chefe e o Chefe final. Ao enfrenta-los e recuperar sua comida ele poderá descansar em paz com sigo mesmo saboreando o seu delicioso lanchinho. 
@@ -37,10 +38,6 @@ Desenvolveremos uma wiki dos personagens no jogo com suas carateristicas conjunt
 ### Classificação indicativa
 Como é um jogo de luta na classificação indicativa indica violence. Então colocamos a fachetária de 10 anos de idade como idade minima para jogar o jogo.
 Idade Miníma: 10 Anos
-
-#### Dupla 
-- Gustavo Severo e Jhonata Souza 
-
 
 *A proposta do jogo é testar a paleta
 de cores, um mini-jogo e a iluminação*
