@@ -7,9 +7,10 @@ O jogo inicia apresentando o personagem principal que é um gato aonde ele acord
 
 
 ## 1.2 - Mecânicas
-- Com o personagem principal terá sequencias de alguns golpes, esquivas e contra ataques alem de um poder especial. 
+- Com o personagem principal terá sequencias de golpes assim sendo combos para enfrentar seus inimigos.  
 - O jogador poderá adiquirir pontos por meio de combos ande se tomar dano perde ponto ou ao acertar o golpe ganha ponto. No final esses pontos poderá trocar por coins para jogar um mini-game.
 - Terá uma variação de inimigos com diferentes habilidades
+- Pular, Ataque Forte, Ataque Fraco, Pegar Porrete na mão. 
   
   * Golpes
   * Movimentação
@@ -26,22 +27,25 @@ O jogo inicia apresentando o personagem principal que é um gato aonde ele acord
 
 
 ## 1.1 - Easter Eggs
-No caminho do jogo terá uma chance de aparecer biscoitos que aumentaram a pontuação do jogador para trocar por coins ao final do jogo para desbloquear e jogar o mini-game.
+No jogo ao bater os inimigos maracará uma seguencia de pontos, no final do jogo com esses pontos poderá trocar para o lancinho no jogo assim podendo gastá-los para jogar o mini-game.
 
 ## 2 - Mobile
-Desenvolveremos uma wiki dos personagens no jogo com suas carateristicas conjunto a suas sprits. Tendo estátisticas como peso, altura, nivél de força. Colocaremos Sinopse do jogo com a musica tema. 
+Desenvolvemos um App contendo a lore do jogo "História de cada personagem", mostrando eles e algumas funções, o App contém a parte dos cenários explicando - os também.
 ### (Detalhes da aplicação e prints do aplicativo, na wiki)
 
 
 ### Gênero
- Luta, ação
+ Luta 
+ Ação
+ Cartoon
+ Mugen
+
 
 ### Classificação indicativa
 Como é um jogo de luta na classificação indicativa indica violence. Então colocamos a fachetária de 10 anos de idade como idade minima para jogar o jogo.
 Idade Miníma: 10 Anos
 
-*A proposta do jogo é testar a paleta
-de cores, um mini-jogo e a iluminação*
+*A proposta do jogo é aprender utilizar as sprits, como funciona um jogo 2D e como se faz um jogo de luta".
 
 <br1>
 
