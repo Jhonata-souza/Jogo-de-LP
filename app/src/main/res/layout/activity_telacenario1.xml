@@ -9,18 +9,21 @@
 
     <TextView
         android:id="@+id/textView4"
-        android:layout_width="409dp"
-        android:layout_height="431dp"
-        android:background="#38000000"
-        android:fontFamily="sans-serif-condensed-medium"
+        android:layout_width="385dp"
+        android:layout_height="613dp"
+        android:background="#81000000"
+        android:fontFamily="@font/acme"
         android:text="@string/um_quarto_onde_mora_um_gato_um_espa_o_que_combina_conforto_divers_o_e_praticidade_para_atender_s_necessidades_desse_ador_vel_animal_de_estima_o_aqui_est_uma_descri_o_desse_ambiente_o_quarto_espa_oso_e_bem_iluminado_com_uma_grande_janela_que_permite_a_entrada_de_luz_natural_o_ch_o_coberto_por_um_tapete_macio_e_quente_tornando_o_um_local_aconchegante_para_o_gato_descansar_nas_paredes_h_prateleiras_estrategicamente_instaladas_oferecendo_ao_gato_um_lugar_para_escalar_explorar_e_relaxar_no_canto_do_quarto_encontra_se_uma_cama_confort_vel_para_o_gato_forrada_com_uma_manta_suave_e_aconchegante_ao_lado_da_cama_h_um_comedouro_e_um_bebedouro_para_garantir_que_o_gato_tenha_f_cil_acesso_comida_e_gua_fresca_um_arranhador_alto_e_resistente_est_posicionado_pr_ximo_a_uma_das_prateleiras_permitindo_que_o_gato_afie_suas_unhas_e_marque_territ_rio_de_forma_adequada_h_tamb_m_brinquedos_espalhados_pelo_ch_o_como_bolas_ratinhos_de_pel_cia_e_penas_penduradas_para_manter_o_gato_entretido_e_ativo_uma_caixa_de_areia_fica_discretamente_localizada_em_um_canto_proporcionando_privacidade_ao_gato_durante_suas_necessidades_a_areia_mantida_limpa_e_fresca_garantindo_um_ambiente_higi_nico_a_decora_o_do_quarto_suave_e_agrad_vel_com_tons_de_cores_relaxantes_como_azul_claro_e_verde_pastel_al_m_disso_plantas_n_o_t_xicas_est_o_dispostas_em_vasos_seguros_adicionando_um_toque_de_natureza_ao_ambiente_para_finalizar_o_quarto_possui_uma_m_sica_suave_tocando_em_segundo_plano_criando_uma_atmosfera_relaxante_para_o_gato_um_espa_o_onde_o_felino_pode_se_sentir_seguro_confort_vel_e_estimulado_atendendo_a_todas_as_suas_necessidades_f_sicas_e_emocionais"
+        android:textColor="@color/white"
         android:textSize="16sp"
         android:typeface="normal"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.615"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.87" />
+        app:layout_constraintVertical_bias="0.864"
+        tools:ignore="TextSizeCheck" />
 
     <ImageButton
         android:id="@+id/imageButton12"
@@ -28,21 +31,23 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
         android:layout_marginTop="24dp"
-        android:backgroundTint="#EA3A05"
+        android:backgroundTint="@color/black"
+        android:contentDescription="@string/buttoncena1"
         android:onClick="IrCenarios"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@android:drawable/ic_menu_revert"
-        android:contentDescription="@string/buttoncena1" />
+        tools:ignore="DuplicateSpeakableTextCheck" />
 
     <ImageView
         android:id="@+id/imageView4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="118dp"
-        android:layout_marginTop="87dp"
+        android:layout_marginStart="116dp"
+        android:layout_marginTop="4dp"
+        android:contentDescription="@string/anjinho1"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/protagonistamorto"
-        android:contentDescription="@string/anjinho1" />
+        tools:ignore="ImageContrastCheck" />
 </androidx.constraintlayout.widget.ConstraintLayout>

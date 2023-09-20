@@ -12,25 +12,29 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
         android:layout_marginTop="16dp"
-        android:backgroundTint="#00FFFFFF"
+        android:backgroundTint="@color/black"
         android:contentDescription="@string/Nada4"
         android:onClick="IrPersonagem"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@android:drawable/ic_menu_revert" />
+        app:srcCompat="@android:drawable/ic_menu_revert"
+        tools:ignore="DuplicateSpeakableTextCheck" />
 
     <TextView
         android:id="@+id/textView5"
         android:layout_width="409dp"
         android:layout_height="245dp"
-        android:layout_marginTop="330dp"
+        android:layout_marginTop="340dp"
         android:background="#38000000"
+        android:fontFamily="@font/acme"
         android:text="@string/o_gigante_rato_apelidado_de_chef_rat_o_o_l_der_imponente_e_tem_vel_da_gangue_de_ratos_conhecida_como_quot_a_mafia_quot_ele_se_destaca_com_seu_tamanho_robusto_e_olhos_frios_comandando_com_autoridade_o_chef_rat_o_o_mentor_do_sprinter_e_ele_um_desafio_formid_vel_para_tony_em_sua_busca_para_recuperar_sua_comida_roubada_sua_presen_a_intimidante_e_for_a_bruta_tornam_o_confronto_final_com_tony_ainda_mais_pico_e_perigoso"
         android:textAlignment="center"
+        android:textColor="@color/white"
         android:textSize="20sp"
         android:textStyle="bold"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="TextSizeCheck" />
 
     <ImageView
         android:id="@+id/imageView8"
@@ -38,10 +42,11 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="4dp"
         android:layout_marginEnd="31dp"
+        android:contentDescription="@string/corvo"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/chefecorvo"
-        android:contentDescription="@string/corvo" />
+        tools:ignore="ImageContrastCheck" />
 
     <ImageView
         android:id="@+id/imageView9"

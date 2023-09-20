@@ -18,26 +18,30 @@
         android:onClick="IrCenarios"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@android:drawable/ic_menu_revert" />
+        app:srcCompat="@android:drawable/ic_menu_revert"
+        tools:ignore="DuplicateSpeakableTextCheck" />
 
     <TextView
         android:id="@+id/textView8"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="192dp"
-        android:background="#38000000"
+        android:layout_marginTop="244dp"
+        android:background="#85000000"
+        android:fontFamily="@font/acme"
         android:text="@string/uma_cidade_com_tem_tica_japonesa_um_lugar_encantador_que_combina_a_arquitetura_a_cultura_e_a_est_tica_tradicional_do_jap_o_com_uma_pitada_de_modernidade_aqui_est_uma_descri_o_imagin_ria_de_uma_cidade_com_essa_tem_tica_nome_da_cidade_hanamachi_que_significa_quot_cidade_das_flores_quot_em_japon_s_arquitetura_e_paisagem_urbana_hanamachi_uma_cidade_que_parece_ter_sido_transportada_diretamente_do_jap_o_tradicional_para_o_s_culo_xxi_ruas_estreitas_e_sinuosas_s_o_ladeadas_por_edif_cios_de_estilo_edo_com_telhados_de_telha_lanternas_de_pedra_e_fachadas_de_madeira_decoradas_com_kanji_e_gravuras_em_estilo_ukiyo_e_as_casas_t_m_jardins_de_pedra_zen_e_pequenas_pontes_de_arco_que_atravessam_riachos_artificiais_com_carpas_coloridas_o_horizonte_da_cidade_dominado_por_um_majestoso_castelo_japon_s_com_torres_imponentes_e_muralhas_de_pedra_lembrando_os_castelos_hist_ricos_do_jap_o_feudal_cultura_a_cultura_japonesa_celebrada_em_toda_a_cidade_h_uma_abund_ncia_de_templos_e_santu_rios_xinto_stas_onde_os_moradores_podem_participar_de_cerim_nias_tradicionais_como_o_hanami_observa_o_das_flores_de_cerejeira_e_o_bon_odori_dan_a_folcl_rica_japonesa_as_ruas_est_o_repletas_de_restaurantes_que_servem_sushi_sashimi_tempur_e_outras_iguarias_japonesas_um_mercado_tradicional_oferece_produtos_frescos_como_ch_verde_peixes_e_legumes_todos_exibidos_com_belas_embalagens_artesanais_entretenimento_hanamachi_possui_um_distrito_de_entretenimento_vibrante_com_casas_de_ch_tradicionais_teatros_kabuki_e_sal_es_de_karaok_um_jardim_de_pedra_zen_um_local_tranquilo_para_meditar_e_relaxar_enquanto_um_jardim_de_bambu_oferece_trilhas_para_caminhadas_e_um_ambiente_natural_eventos_anuais_a_cidade_de_hanamachi_famosa_por_seus_festivais_tradicionais_o_festival_das_cerejeiras_em_flor_que_acontece_na_primavera_atrai_visitantes_de_todo_o_pa_s_para_admirar_as_deslumbrantes_cerejeiras_em_flor_durante_o_ver_o_o_festival_de_fogos_de_artif_cio_ilumina_o_c_u_noturno_com_espetaculares_exibi_es_pirot_cnicas_transporte_a_cidade_interligada_por_uma_rede_de_ruas_pedestres_e_ciclovias_com_riquix_s_dispon_veis_para_passeios_tur_sticos_os_transportes_p_blicos_incluem_bondes_tradicionais_e_trens_de_alta_velocidade_que_ligam_hanamachi_a_outras_cidades_do_pa_s_hanamachi_uma_cidade_m_gica_onde_o_passado_e_o_presente_se_entrela_am_proporcionando_aos_moradores_e_visitantes_uma_experi_ncia_nica_e_cativante_da_cultura_japonesa"
+        android:textColor="@color/white"
         android:textSize="12sp"
         android:textStyle="bold"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="VisualLintLongText" />
 
     <ImageView
         android:id="@+id/imageView5"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="112dp"
-        android:layout_marginTop="28dp"
+        android:layout_marginStart="88dp"
+        android:layout_marginTop="76dp"
         android:contentDescription="@string/chute2"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
@@ -45,15 +49,15 @@
 
     <ImageButton
         android:id="@+id/imageButton"
-        android:layout_width="80dp"
-        android:layout_height="79dp"
-        android:layout_marginTop="57dp"
+        android:layout_width="61dp"
+        android:layout_height="53dp"
+        android:layout_marginTop="16dp"
         android:layout_marginEnd="16dp"
         android:backgroundTint="#F8000000"
+        android:contentDescription="@string/mapa"
         android:onClick="IrMapa"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@android:drawable/ic_dialog_map"
-        android:contentDescription="@string/mapa" />
+        app:srcCompat="@android:drawable/ic_dialog_map" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

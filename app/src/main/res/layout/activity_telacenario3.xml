@@ -10,31 +10,36 @@
         android:id="@+id/imageButton14"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="16dp"
-        android:layout_marginTop="16dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="4dp"
         android:backgroundTint="#000000"
         android:contentDescription="@string/nada33"
         android:onClick="IrCenarios"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@android:drawable/ic_menu_revert" />
+        app:srcCompat="@android:drawable/ic_menu_revert"
+        tools:ignore="ImageContrastCheck,DuplicateSpeakableTextCheck" />
 
     <TextView
         android:id="@+id/textView7"
-        android:layout_width="408dp"
-        android:layout_height="604dp"
+        android:layout_width="388dp"
+        android:layout_height="580dp"
+        android:layout_marginStart="8dp"
         android:layout_marginBottom="4dp"
         android:background="#38000000"
+        android:fontFamily="@font/acme"
         android:text="@string/uma_mans_o_uma_resid_ncia_impressionante_e_luxuosa_geralmente_constru_da_em_uma_escala_maior_do_que_uma_casa_comum_com_aten_o_meticulosa_aos_detalhes_em_sua_arquitetura_e_design_de_interiores_aqui_est_uma_descri_o_de_uma_mans_o_que_evoca_imagens_de_eleg_ncia_e_grandiosidade_arquitetura_exterior_a_mans_o_est_localizada_em_uma_vasta_propriedade_cercada_por_jardins_meticulosamente_cuidados_e_uma_entrada_majestosa_a_fachada_principal_da_mans_o_imponente_com_uma_combina_o_de_pedra_natural_e_tijolo_vista_uma_ampla_escadaria_de_m_rmore_leva_entrada_principal_que_adornada_por_uma_porta_de_madeira_maci_a_esculpida_m_o_com_detalhes_intrincados_e_ferragens_ornamentadas_a_mans_o_dominada_por_um_telhado_de_mansarda_com_telhas_de_ard_sia_escura_complementado_por_chamin_s_de_tijolos_altas_e_elegantes_janelas_de_guilhotina_de_vidro_de_chumbo_com_vitrais_adornam_a_fachada_oferecendo_um_toque_de_sofistica_o_interior_ao_entrar_na_mans_o_voc_recebido_por_um_hall_de_entrada_grandioso_com_um_lustre_de_cristal_impressionante_que_reflete_a_luz_pelas_paredes_revestidas_de_pain_is_de_madeira_nobre_o_piso_de_m_rmore_polido_e_uma_escadaria_curva_de_madeira_leva_ao_andar_de_cima_a_sala_de_estar_um_espa_o_luxuoso_com_tetos_altos_lareira_de_m_rmore_e_janelas_do_ch_o_ao_teto_que_oferecem_vistas_panor_micas_da_paisagem_circundante_a_mob_lia_elegante_e_confort_vel_com_sof_s_de_veludo_tapetes_persas_e_antiguidades_cuidadosamente_selecionadas_a_cozinha_uma_obra_prima_de_design_moderno_com_bancadas_de_pedra_eletrodom_sticos_de_ltima_gera_o_e_uma_ilha_central_equipada_com_banquetas_para_refei_es_informais_uma_sala_de_jantar_formal_apresenta_uma_mesa_de_jantar_expansiva_onde_acomoda_es_para_festas_requintadas_s_o_comuns_quartos_a_mans_o_possui_uma_su_te_principal_extravagante_com_uma_cama_king_size_lareira_aconchegante_closet_amplo_e_um_banheiro_revestido_de_m_rmore_com_banheira_de_hidromassagem_e_chuveiro_de_chuva_al_m_disso_existem_v_rias_su_tes_de_h_spedes_elegantemente_decoradas_cada_uma_com_seu_pr_prio_banheiro_luxuoso_comodidades_a_mans_o_inclui_uma_variedade_de_comodidades_de_luxo_como_uma_sala_de_cinema_em_casa_uma_adega_bem_abastecida_uma_academia_de_ltima_gera_o_uma_biblioteca_ricamente_decorada_e_uma_piscina_coberta_com_vista_para_os_jardins_paisag_sticos_exterior_os_jardins_que_cercam_a_mans_o_s_o_um_verdadeiro_para_so_com_terra_os_de_pedra_fontes_um_gazebo_encantador_e_uma_piscina_ao_ar_livre_com_casa_de_piscina_uma_trilha_sinuosa_leva_a_um_lago_privado_onde_os_h_spedes_podem_desfrutar_de_passeios_de_barco_ou_piqueniques_sombra_de_rvores_antigas_essa_mans_o_uma_obra_prima_da_arquitetura_e_do_design_um_lugar_onde_o_luxo_a_eleg_ncia_e_o_conforto_se_combinam_para_criar_um_ref_gio_verdadeiramente_excepcional"
+        android:textColor="@color/white"
         android:textSize="12sp"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintStart_toStartOf="parent" />
+        app:layout_constraintStart_toStartOf="parent"
+        tools:ignore="TextSizeCheck" />
 
     <ImageView
         android:id="@+id/imageView6"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="532dp"
+        android:layout_marginBottom="524dp"
         android:contentDescription="@string/pulochef"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
