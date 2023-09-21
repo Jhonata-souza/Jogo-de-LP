@@ -1,6 +1,14 @@
 # Jogo-PunchersCat
+### Link do Youtube com a apresentação do Android Studio - https://youtu.be/TaKBEehtEZQ
+
+
 #### Dupla 
-> GitHub .[@GSPMSilva](https://github.com/GSPMSilva).&nbsp;&middot;&nbsp;
+Gustavo Severo
+> GitHub [@GSPMSilva](https://github.com/GSPMSilva).&nbsp;&middot;&nbsp;
+
+Jhonata Souza
+> GitHub [@Jhonata - Souza](https://github.com/Jhonata-souza).&nbsp;&middot;&nbsp;
+
 
 ## 1 - Jogo e sua narrativa
 O jogo inicia apresentando o personagem principal que é um gato aonde ele acorda faminto, ele rapidamente observa que roubaram toda sua comida, em seguida ele segue os rastros aonde leva ele até os verdadeiros culpados que invadiram sua casa e roubaram sua comida, logo após isso descobre que quem roubou foi o chefe da mafia dos ratos aonde assaltava casas e fazia de nova moradia para sua organização, então ele lutará com os lacaios, o braço direito do Chefe e o Chefe final. Ao enfrenta-los e recuperar sua comida ele poderá descansar em paz com sigo mesmo saboreando o seu delicioso lanchinho. 
