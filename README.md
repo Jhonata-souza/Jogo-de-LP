@@ -4,10 +4,10 @@
 
 #### Dupla 
 Gustavo Severo
-> GitHub [@GSPMSilva](https://github.com/GSPMSilva).&nbsp;&middot;&nbsp;
+> GitHub [@GSPMSilva](https://github.com/GSPMSilva)&nbsp;&middot;&nbsp;
 
 Jhonata Souza
-> GitHub [@Jhonata - Souza](https://github.com/Jhonata-souza).&nbsp;&middot;&nbsp;
+> GitHub [@Jhonata - Souza](https://github.com/Jhonata-souza)&nbsp;&middot;&nbsp;
 
 
 ## 1 - Jogo e sua narrativa
